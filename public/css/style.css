@@ -1,0 +1,22 @@
+.slider-image{
+    height: 600px;
+    width: 500px;
+
+}
+
+body{
+    background: #0f0f0f;
+}
+h1{
+    color: #fd0707;
+  
+}
+.carousel-inner{
+    height: 30vh;
+    width: 100vw;
+
+}
+.text{
+    background-color: #fd0707;
+    color: black;
+}
